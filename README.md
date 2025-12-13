@@ -350,9 +350,3 @@ MIT License - See LICENSE file for details
 
 **Naveen**
 - GitHub: [@naveensh16](https://github.com/naveensh16)
-
-## 🙏 Acknowledgments
-
-- FastAPI documentation for excellent examples
-- React Testing Library community for best practices
-- GitHub Copilot for development assistance
